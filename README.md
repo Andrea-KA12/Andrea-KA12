@@ -1,5 +1,5 @@
 <div align="center">≽^• ˕ • ྀི≼
-<div align="center" <sub><sup>Привет, меня зовут Эбби</sup></sub>
+<div align="center" <sub><sup>Привет, меня зовут Эбби!!</sup></sub>
 <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/fb9d5684-38c2-4c98-803d-210102af8b6b" />
 
 ꒷︶꒷꒥꒷‧₊˚૮꒰˵•ᵜ•˵꒱ა‧₊˚꒷︶꒷꒥꒷
