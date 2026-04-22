@@ -14,3 +14,5 @@
   ──────⊹⊱✫⊰⊹──────
 
 <sub> "ɪ ʟᴏᴏᴋᴇᴅ ᴀᴛ ᴛʜᴇ ᴄᴀʀ ᴀғᴛᴇʀᴡᴀʀᴅs, ᴀᴛ ᴍʏ ᴅɪғғᴜsᴇʀ, ɪ'ᴍ ᴘʀᴇᴛᴛʏ sᴜʀᴇ ᴛʜᴀᴛ's ɴᴏᴛ ʜᴏᴡ ᴛʜᴇ ᴇɴɢɪɴᴇᴇʀs ᴅᴇsɪɢɴᴇᴅ ɪᴛ." -𝑶𝑷𝟖𝟏 </sub>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Andrea-KA12) 
